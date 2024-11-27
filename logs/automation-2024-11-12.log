@@ -1,0 +1,3 @@
+21:10:42.061 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest **************
+21:10:51.538 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest **************
+21:10:54.083 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link.....
